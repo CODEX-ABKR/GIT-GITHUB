@@ -1,6 +1,6 @@
-asd
-# Git/Github
 
+# Git/Github
+asd
 A repo covering basic concepts of Git and Github
 
 ## CMD Commands
